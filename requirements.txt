@@ -1,10 +1,6 @@
 pandas
 pdfplumber
-re
 tabula
 numpy
-json
 streamlit
-base64
-io
 streamlit_pdf_viewer
