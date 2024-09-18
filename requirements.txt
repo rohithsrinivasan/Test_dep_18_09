@@ -1,6 +1,6 @@
 pandas
-pdfplumber
-tabula
+pdfplumber==0.11.4
+tabula==1.0.5
 numpy
-streamlit
+streamlit==1.38.0
 streamlit_pdf_viewer
