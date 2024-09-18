@@ -4,4 +4,3 @@ tabula-py
 numpy
 streamlit==1.38.0
 streamlit_pdf_viewer
-openjdk-17-jre
