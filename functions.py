@@ -2,7 +2,7 @@ import streamlit as st
 import base64
 from io import BytesIO
 from tabula import read_pdf
-from streamlit_pdf_viewer import pdf_viewer
+#from streamlit_pdf_viewer import pdf_viewer
 import part_number_details_functions
 import extracting_pin_tables_functions
 
